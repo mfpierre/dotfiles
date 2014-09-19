@@ -1,1 +1,17 @@
-/Users/pierre/.gitconfig
+[user]
+	name = Pierre
+	email = mfpierre@gmail.com
+[color]
+	ui = true
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
+[core]
+	editor = nano
+[pull]
+	rebase = true
+[rerere]
+	enabled = true
+[alias]
+	s = status -s
+	lg = log --oneline --decorate --all --graph
