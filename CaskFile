@@ -24,3 +24,6 @@ cask install transmission 2> /dev/null
 cask install mailbox 2> /dev/null
 cask install skype 2> /dev/null
 cask install adium 2> /dev/null
+
+# Utilities
+cask install istat-menus 2> /dev/null
