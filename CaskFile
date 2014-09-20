@@ -1,0 +1,26 @@
+# Install native apps
+# Usage: `brew bundle Caskfile`
+
+install caskroom/cask/brew-cask
+tap caskroom/versions
+
+# Web
+cask install google-chrome 2> /dev/null
+cask install imageoptim 2> /dev/null
+cask install iterm2 2> /dev/null
+cask install the-unarchiver 2> /dev/null
+cask install cyberduck 2> /dev/null
+cask install sequel-pro 2> /dev/null
+cask install atom 2> /dev/null
+
+# Entertainment
+cask install spotify 2> /dev/null
+cask install plug 2> /dev/null
+cask install soundcleod 2> /dev/null
+cask install vlc 2> /dev/null
+cask install transmission 2> /dev/null
+
+# Communication
+cask install mailbox 2> /dev/null
+cask install skype 2> /dev/null
+cask install adium 2> /dev/null
