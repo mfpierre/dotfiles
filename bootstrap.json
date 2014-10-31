@@ -1,0 +1,29 @@
+{
+    "after-scripts": [
+        "brew linkapps"
+    ],
+    "casks": [
+        "google-chrome",
+        "imageoptim",
+        "iterm2",
+        "the-unarchiver",
+        "cyberduck",
+        "sequel-pro",
+        "atom",
+        "spotify",
+        "plug",
+        "soundcleod",
+        "vlc",
+        "transmission",
+        "mailbox",
+        "skype",
+        "adium",
+        "istat-menus"
+    ],
+    "formulas": [
+        "git",
+        "node",
+        "python",
+        "go"
+    ]
+}
