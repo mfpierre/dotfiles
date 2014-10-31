@@ -25,5 +25,8 @@
         "node",
         "python",
         "go"
-    ]
+    ],
+    "symlinks": {
+        "git/.*": "~"
+    }
 }
