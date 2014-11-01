@@ -22,6 +22,7 @@
         "istat-menus"
     ],
     "formulas": [
+        "brew-cask",
         "git",
         "node",
         "python",
