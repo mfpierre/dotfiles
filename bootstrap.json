@@ -19,7 +19,8 @@
         "mailbox",
         "skype",
         "adium",
-        "istat-menus"
+        "istat-menus",
+        "couleurs"
     ],
     "formulas": [
         "brew-cask",
