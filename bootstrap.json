@@ -18,9 +18,17 @@
         "transmission",
         "mailbox",
         "skype",
-        "adium",
         "istat-menus",
-        "couleurs"
+        "couleurs",
+        "qlcolorcode",
+        "qlstephen",
+        "qlmarkdown",
+        "quicklook-json",
+        "qlprettypatch",
+        "quicklook-csv",
+        "betterzipql",
+        "qlimagesize",
+        "webpquicklook"
     ],
     "formulas": [
         "brew-cask",
