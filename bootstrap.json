@@ -28,7 +28,8 @@
         "node",
         "python",
         "go",
-        "graphicsmagick"
+        "graphicsmagick",
+        "cheat"
     ],
     "symlinks": {
         "git/.*": "~",
