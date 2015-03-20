@@ -37,7 +37,8 @@
         "python",
         "go",
         "graphicsmagick",
-        "cheat"
+        "cheat",
+        "httpie"
     ],
     "symlinks": {
         "git/.*": "~",
