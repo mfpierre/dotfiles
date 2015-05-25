@@ -18,3 +18,5 @@
 	lg = log --oneline --decorate --all --graph
 [credential]
         helper = osxkeychain
+[push]
+        default = simple
