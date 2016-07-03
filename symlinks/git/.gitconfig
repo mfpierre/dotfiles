@@ -9,6 +9,7 @@
 [core]
 	editor = nano
 	excludesfile = /Users/pierre/.gitignore_global
+	pager = diff-so-fancy | less --tabs=4 -RFX
 [pull]
 	rebase = true
 [rerere]
@@ -20,3 +21,5 @@
         helper = osxkeychain
 [push]
         default = simple
+[diff]
+	compactionHeuristic = 1

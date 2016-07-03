@@ -38,7 +38,8 @@
         "go",
         "graphicsmagick",
         "cheat",
-        "httpie"
+        "httpie",
+        "diff-so-fancy"
     ],
     "symlinks": {
         "git/.*": "~",
