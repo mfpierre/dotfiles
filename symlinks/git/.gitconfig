@@ -15,8 +15,12 @@
 [rerere]
 	enabled = true
 [alias]
-	s = status -s
+	s = status -s --branch
 	lg = log --oneline --decorate --all --graph
+	please = push --force-with-lease
+	stsh = stash --keep-index
+	staash = stash --include-untracked
+	staaash = stash --all
 [credential]
         helper = osxkeychain
 [push]
