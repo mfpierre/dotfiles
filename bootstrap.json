@@ -3,6 +3,7 @@
         "brew linkapps"
     ],
     "casks": [
+        "atom",
         "google-chrome",
         "imageoptim",
         "iterm2",
@@ -35,10 +36,12 @@
         "git",
         "node",
         "python",
+        "python3",
         "go",
         "graphicsmagick",
         "cheat",
         "httpie",
+        "httpstat",
         "diff-so-fancy"
     ],
     "symlinks": {
